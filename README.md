@@ -1,6 +1,6 @@
 # REG NO: 212224040155
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE: 28-03-2025
+## DATE: 29-03-2025
 
 ## AIM:
 To create a 3D model from given orthographic projection.
